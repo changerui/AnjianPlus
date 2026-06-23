@@ -1,1 +1,18 @@
-
+{
+  "version": 1,
+  "updated": "2026-06-24",
+  "scripts": [],
+  "plugins": [],
+  "sites": [
+    {
+      "name": "紫貓學院",
+      "desc": "按鍵精靈命令 / Q 語言最權威的線上文檔鏡像。",
+      "url": "https://zimaoxy.com"
+    },
+    {
+      "name": "按鍵精靈官方論壇",
+      "desc": "官方插件、教學與腳本交流。",
+      "url": "https://bbs.anjian.com"
+    }
+  ]
+}
